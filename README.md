@@ -1,4 +1,4 @@
-# HKEX-Deriaviative-Market-Data-Automation
+# HKEX-Deriaviative-Market-Data-Automation (In Progress)
 
 Web scrapping, robatic process automation and data cleansing will be used within this project. 
 
