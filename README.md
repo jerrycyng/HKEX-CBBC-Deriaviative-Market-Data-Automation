@@ -14,9 +14,9 @@ The aim is to generate a dynamic dataset for investment banks. These per day gen
 
      3.HKEX Warrant (Stock) Dataset (All)
 
-     4. Stock Price Performance (2Y) of listed CBBC
+     4. Stock Price Performance (2Y) of listed CBBC (Yahoo)
 
-     5. Stock Price Performance(2Y) of listed stock warrant
+     5. Stock Price Performance(2Y) of listed stock warrant (Yahoo)
 
 
 
