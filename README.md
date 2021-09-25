@@ -6,6 +6,8 @@ Callable Bull / Bear Contract (CBBC) , Warrant and stock data will be scrapped f
 
 The aim is to generate a dynamic dataset for investment banks. These per day generated data can be used by business intelligence applications such as Tableau or PowerBI to build dashboards for bankers and other stalkholders.   
 
+For the data pipeline part, it can be done by setting up the task scheduler in window or macos. 
+
 # Generated Files 
 
      1.HKEX CBBC Dataset (All)
