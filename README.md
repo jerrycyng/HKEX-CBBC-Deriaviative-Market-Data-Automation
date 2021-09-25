@@ -19,6 +19,10 @@ For the data pipeline part, it can be done by setting up the task scheduler in w
      4. Stock Price Performance (2Y) of listed CBBC (Yahoo)
 
      5. Stock Price Performance(2Y) of listed stock warrant (Yahoo)
+     
+  # Reminders
+  
+  Tableau Relationship joining is recommended to deal with the datasets. 
 
 
 
